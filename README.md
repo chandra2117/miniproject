@@ -77,7 +77,7 @@ The system uses heuristic and statistical analysis techniques to study user spen
 
 ## Output :
 
-### Output 1 – Expense Entry Interface
+## Output 1 – Expense Entry Interface
 
 Displays fields for entering amount, category, date, description, and payment mode.
 
@@ -86,19 +86,19 @@ Displays fields for entering amount, category, date, description, and payment mo
 
 <hr>
 
-### Output 2 – Expense Analysis and Reports
+## Output 2 – Expense Analysis and Reports
 
 Shows pie charts, monthly trends, savings summary, and AI-based suggestions.
 
-#### Pie charts
+## Pie charts
 
 <img width="1919" height="1021" alt="Screenshot 2025-12-12 173252" src="https://github.com/user-attachments/assets/83c16054-0392-4205-8171-7e4590c6812e" /><br><br>
 
-#### Monthly trends
+## Monthly trends
 
 <img width="1919" height="1079" alt="Screenshot 2025-12-12 173758" src="https://github.com/user-attachments/assets/efd1655e-762b-432f-8d1e-2adb63305de5" />
 
-#### Savings summary
+## Savings summary
 
 <img width="1919" height="1021" alt="Screenshot 2025-12-12 173231" src="https://github.com/user-attachments/assets/55fef1c4-a0bf-4896-af60-d13c558d7d20" />
 
